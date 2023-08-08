@@ -1,5 +1,4 @@
-github repo: https://github.com/AnkitKumar1303/shoe_page.github.io)https://github.com/AnkitKumar1303/shoe_page.github.io
-
+github repo: https://github.com/AnkitKumar1303/shoe_page.github.io
 
 Hosted link: https://ankitkumar1303.github.io/shoe_page.github.io/)https://ankitkumar1303.github.io/shoe_page.github.io/
 
